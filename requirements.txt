@@ -2,7 +2,6 @@ pandas
 streamlit
 plotly
 datetime
-base64
 oauth2client
 io
 gspread
